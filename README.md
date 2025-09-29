@@ -1,4 +1,10 @@
-Welcome
+Welcome$ git clone https://github.com/Sxp-ID/my-spambot
+$ cd my-spambot
+$ make instal
+$ ./main
+
+Atau bisa juga run script nya dg ketik perintah
+$ make run
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
