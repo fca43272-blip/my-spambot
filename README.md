@@ -1,6 +1,6 @@
 Welcome
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+--------| spam> +62 812-7529-5610
+![+62 812-7529-5610](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 # My-SpamBot
 Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang tapi gak bayar² !
