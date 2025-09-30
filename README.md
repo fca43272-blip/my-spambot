@@ -1,6 +1,6 @@
 Welcome
 --------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+![+62 831-8955-3096](h ttps://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 # My-SpamBot
 Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang tapi gak bayar² !
